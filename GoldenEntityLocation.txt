@@ -1,0 +1,729 @@
+2U	38.9340002	-76.8966396	Landover
+ADOR	47.6038321	-122.3300623	Seattle
+Actifio	42.3756401	-71.2358003	Waltham
+Affectiva	42.3604823	-71.0595677	Boston
+AppDynamics	37.7792808	-122.4192362	San Francisco
+BOKU	48.1371079	11.5753822	Munich
+Backupify	52.2033051	0.124862	Cambridge
+Bigcommerce	30.2711286	-97.7436994	Austin
+Boom Financial	37.442156	-122.1634471	Palo Alto
+Booyah	37.7792808	-122.4192362	San Francisco
+BranchOut	37.7792808	-122.4192362	San Francisco
+Brighter.com	34.019657	-118.4875489	Santa Monica
+BuyWithMe	40.7305991	-73.9865811	New York
+BuzzFeed	40.7305991	-73.9865811	New York
+Calxeda	30.2711286	-97.7436994	Austin
+Canvas	38.9584018	-77.3579742	Reston
+Chef	47.6038321	-122.3300623	Seattle
+CloudFlare	37.7792808	-122.4192362	San Francisco
+Cloudera	37.442156	-122.1634471	Palo Alto
+Couchbase	37.3855745	-122.0820499	Mountain View
+Counsyl	37.6549493	-122.408125	South San Francisco
+Decide.com	47.6038321	-122.3300623	Seattle
+DoubleDutch	37.7792808	-122.4192362	San Francisco
+Dropcam	37.7792808	-122.4192362	San Francisco
+DudaMobile	37.442156	-122.1634471	Palo Alto
+Dwolla	41.5910641	-93.6037148	Des Moines
+Edmodo	37.496904	-122.3330572	San Mateo
+Eucalyptus Systems	34.4358295	-119.8276388	Goleta
+Extole	37.7792808	-122.4192362	San Francisco
+Fab.com	40.7305991	-73.9865811	New York
+Fancy	40.7305991	-73.9865811	New York
+Fixmo	43.6529206	-79.3849007	Toronto
+Flipboard	37.442156	-122.1634471	Palo Alto
+Group Commerce	40.7305991	-73.9865811	New York
+Hortonworks	37.3541132	-121.9551743	Santa Clara
+JustFab	33.912594	-118.3831789	El Segundo
+Kabbage	33.7490987	-84.3901848	Atlanta
+Klout	37.7792808	-122.4192362	San Francisco
+Knewton	40.7305991	-73.9865811	New York
+Kno	37.3541132	-121.9551743	Santa Clara
+Kobo	43.6529206	-79.3849007	Toronto
+Lazada Group	3.1570976	101.7009528	Kuala Lumpur
+Lot18	40.7305991	-73.9865811	New York
+Luminate	37.3855745	-122.0820499	Mountain View
+Magisto	40.7305991	-73.9865811	New York
+Maker Studios	34.0211224	-118.3964664	Culver City
+Meez	37.7792808	-122.4192362	San Francisco
+Nest Labs	37.442156	-122.1634471	Palo Alto
+New Relic	37.7792808	-122.4192362	San Francisco
+Nextdoor	37.7792808	-122.4192362	San Francisco
+Nimble Storage	37.3361905	-121.8905832	San Jose
+Nutanix	37.3361905	-121.8905832	San Jose
+Okta	37.7792808	-122.4192362	San Francisco
+OpenSky	40.7305991	-73.9865811	New York
+Oyster.com	40.7305991	-73.9865811	New York
+Paydiant	42.2964859	-71.292557	Wellesley
+Personal Capital	37.4852152	-122.2363547	Redwood City
+Pinterest	37.7792808	-122.4192362	San Francisco
+Plum District	37.7792808	-122.4192362	San Francisco
+Pure Storage	37.3855745	-122.0820499	Mountain View
+Quid	37.7792808	-122.4192362	San Francisco
+Quirky	40.7305991	-73.9865811	New York
+Quixey	37.3855745	-122.0820499	Mountain View
+Qwilt	37.4852152	-122.2363547	Redwood City
+Rent the Runway	40.7305991	-73.9865811	New York
+ResearchGate	52.5170365	13.3888599	Berlin
+Reverb Technologies	37.496904	-122.3330572	San Mateo
+Rocket Lawyer	37.7792808	-122.4192362	San Francisco
+Room 77	37.3855745	-122.0820499	Mountain View
+Sailthru	40.7305991	-73.9865811	New York
+Simple	45.5202471	-122.6741948	Portland
+SimpliVity	42.2694308	-71.6129906	Westborough
+Simulmedia	40.7305991	-73.9865811	New York
+Smartling	40.7305991	-73.9865811	New York
+Smule	37.7792808	-122.4192362	San Francisco
+SolidFire	40.0149856	-105.2705455	Boulder
+Stitcher	37.7792808	-122.4192362	San Francisco
+StockTwits	32.7174209	-117.1627713	San Diego
+SweetLabs	32.7174209	-117.1627713	San Diego
+Tango	37.3855745	-122.0820499	Mountain View
+TaskRabbit	37.7792808	-122.4192362	San Francisco
+Ticketfly	37.7792808	-122.4192362	San Francisco
+Tidemark	37.4852152	-122.2363547	Redwood City
+Tintri	37.3855745	-122.0820499	Mountain View
+Trada	40.0149856	-105.2705455	Boulder
+Trendyol	41.0096334	28.9651646	Istanbul
+Twitch	37.7792808	-122.4192362	San Francisco
+Uber	37.7792808	-122.4192362	San Francisco
+Virtustream	38.9848265	-77.0946458	Bethesda
+Warby Parker	40.7305991	-73.9865811	New York
+Xiaomi	39.9059631	116.391248	Beijing
+ZestFinance	34.054935	-118.2444759	Los Angeles
+ngmoco	37.7792808	-122.4192362	San Francisco
+zulily	47.6038321	-122.3300623	Seattle
+Wornall House Museum	39.0844687	-94.5630297	Kansas City
+Ella Sharp Museum	32.4104385	-90.1620648883	Jackson
+Rail Depot Museum	36.702192	-81.4415241116	Troutdale
+Jacksonville Museum	30.3321838	-81.6556509	Jacksonville
+Mardi Gras Museum	29.9942265	-90.2417805	Kenner
+Windsor Historical Museum	42.30423	-83.0298609	Windsor
+The Bead Museum	34.142498	-118.2485959	Glendale
+Bastrop County Historical Museum	30.0085542	-97.159432	Smithville
+Chetco Valley Historical Museum	44.311461	-96.7984399	Brookings
+Museum of Appalachia	38.5896187	-89.4200639	Clinton
+Junction City Historical Society Museum	39.0286093	-96.8313977	Junction City
+Llano County Museum	30.6663312	-98.6970373	Llano County
+Plagmans Barn Museum	42.741958	-91.2619292	Garber
+Helen Marie Taylor Museum	31.549333	-97.1466694	Waco
+Coutts Memorial Museum of Art	38.7574137	-120.5276128	El Dorado
+George Washington Carver Museum	30.2711286	-97.7436994	Austin
+Emmet County Historical Society Museum	43.4016255	-94.8327639	Estherville
+Scandia Museum	45.2535777	-92.8057668	Scandia
+Renville County Historical Museum	40.6127349	-89.4593229	Morton
+Fourth Infantry Division Museum	31.1171441	-97.7277959	Killeen
+Esther Atkinson Museum	37.3024713	-78.3923812	Farmville
+Camp Shanks World War II Museum	33.4918203	-80.8556475	Orangeburg
+E H Danner Museum of Telephony	31.4648357	-100.4398441	San Angelo
+Fort Hunter Museum	40.2663107	-76.8861121	Harrisburg
+Museum for East Texas Culture	31.7621153	-95.630789	Palestine
+Museum of Nantucket History	41.2657181	-70.0683143	Nantucket
+World Forestry Center Discovery Museum	45.5202471	-122.6741948	Portland
+Museum of Contemporary Art	32.7174209	-117.1627713	San Diego
+Museum of Art	42.2681569	-83.731229	Ann Arbor
+Old Gaol Museum	43.1716955	-70.6088627	York Beach
+Confederate Museum	37.5385087	-77.4342799	Richmond
+Crockett County Museum	30.7098905	-101.2011253	Ozona
+Covered Bridge Museum	39.1523198	-80.0403577	Philippi
+Palmer Museum	40.8005307	-77.8624446	University Park
+Louisiana State University Rural Life Museum	30.4507462	-91.1545509	Baton Rouge
+Willis Carey Historical Museum	-43.5716033	172.6309889	Cashmere
+Explorations V Childrens Museum	28.0394654	-81.9498041	Lakeland
+Coast Guard Museum Northwest	47.6038321	-122.3300623	Seattle
+Family Museum of Arts and Sciences	41.5255466	-90.5081477	Bettendorf
+College of the Atlantic Natural History Museum	44.3864565	-68.2118569811	Bar Harbor
+San Jose Museum of Art	37.3361905	-121.8905832	San Jose
+Combat Air Museum	39.0490111	-95.6775556	Topeka
+Littleton Historical Museum	39.613321	-105.0166497	Littleton
+Cobden Museum	45.6279178	-76.8802561	Cobden
+Follett House Museum	41.4489397	-82.7079604	Sandusky
+Willamette Falls Locks and Museum	45.3656761	-122.612314	West Linn
+Story Lady Doll and Toy Museum	43.6480127	-93.3682655	Albert Lea
+Timber Lake and Area Historical Society Museum	34.9593168	-80.5625668	Timber Lake
+Cassoday Historical Museum	38.0392911	-96.6387514	Cassoday
+Museum of the Llano Estacado	34.1847936	-101.7068416	Plainview
+Suffolk Museum	52.24115585	1.04665422999	Suffolk
+University of Virginia Art Museum	38.029306	-78.476678	Charlottesville
+Old Rugged Cross Museum	43.875017	-85.5100499	Reed City
+Sioux County Museum	40.7464901	-74.156255	Harrison
+Milan Historical Museum	45.4667971	9.1904984	Milan
+Museum of World Treasures	37.6922361	-97.3375447	Wichita
+Roverson Museum and Science Center	42.096968	-75.9143409	Binghamton
+Pejepscot Historical Society Museum	52.2639962	10.5252669	Brunswick
+Harvard University Museum of Comparative Zoology	52.2033051	0.124862	Cambridge
+Worthington Historical Society Museum	39.9622601	-83.0007064	Columbus
+Central Kansas Flywheels Yesteryear Museum	38.8402805	-97.6114236	Salina
+Marine Corps Memorial Museum	39.9523993	-75.1635898	Philadelphia
+Ventfort Hall Mansion and Gilded Age Museum	42.2875874	-73.3203861	Stockbridge
+Hichborn House Museum	42.3604823	-71.0595677	Boston
+Liberty Hall Museum	37.4616454	-89.2504792	Union
+Playhouse Doll Museum	38.7574137	-120.5276128	El Dorado
+Tillamook County Pioneer Museum	45.455921	-123.8444289	Tillamook
+Rosalie Whyel Museum of Doll Art	47.6144219	-122.1923371	Bellevue
+Wildlife Museum of the West	52.8435152	-8.9837469	Ennis
+Red River Valley Museum	50.266667	-119.2666669	Vernon
+Galesburgh Memorial Museum	40.9478158	-90.3712394	Galesburg
+Planes of Fame East Air Museum	44.8546856	-93.4707859	Eden Prairie
+Courthouse Museum	41.5721288	-101.6974897	Arthur
+Antique Doll Museum	32.4464534	-99.7333477	Abilene
+The Portsmouth Museum of Military History	50.8036831	-1.0756139	Portsmouth
+Ohio Tobacco Museum	36.6478735	-90.8887905	Ripley
+Indianapolis Motor Speedway Hall of Fame Museum	39.8022653	-86.2672126	Speedway
+McClurg Museum	42.1250929	-72.749538	Westfield
+Valley County Pioneer Museum	36.9958841	-85.9119214	Glasgow
+Aztec Museum	36.8220629	-107.9928991	Aztec
+Livingston County Historical Society Museum	41.4525214	-90.1548425	Geneseo
+Douglass Historical Museum	38.8484461	-76.9777528	Douglass
+Davison Area Historical Museum	43.6660467	-98.1383167	Davison
+Roseville Telephone Museum	38.72338	-121.185878161	Roseville
+Clifton Community Historical Society Museum	51.4615884	-2.6202845	Clifton
+Pony Express Station Museum	39.1457247	-121.5913515	Marysville
+Frontier Montana Museum	46.0753795	-113.0893319	Deer Lodge
+Washington County Museum of Fine Arts	39.6419219	-77.720264	Hagerstown
+Ragtops and Roadsters Auto Museum	33.5313194	-79.0364539	Murrells Inlet
+Manton Area Historical Museum	43.7751405	7.4966252	Manton
+Maitland Historical Museum and Telephone Museum	-32.7081769	151.526843734	Maitland
+Jewell County Historical Museum	44.1634663	-93.9993504	Mankato
+Saline County Museum	50.7111314	-2.4398485	Dorchester
+Ralph Stanley Museum and Traditional Mountain Music Center	37.1501067	-82.4559845	Clintwood
+Glacier County Historical Society Museum	48.63304	-112.3261619	Cut Bank
+Bucksport Historical Society Museum	40.7751264	-124.1922838	Bucksport
+USS Cairo Museum	32.3528418	-90.8777341	Vicksburg
+Beeville Art Museum	28.4008319	-97.7483311	Beeville
+Museum of American Calvary	38.6479018	-78.6714136	New Market
+Cracker Creek Museum of Mining	44.7458418	-118.2012711	Sumpter
+David_Onley	50.0000002	-86.0	Ontario
+Pierre_Duchesne	54.0	-71.9999999	Quebec
+Pauline_Marois	54.0	-71.9999999	Quebec
+John_James_Grant	45.0000002	-62.9999998	Nova Scotia
+Darrell_Dexter	45.0000002	-62.9999998	Nova Scotia
+Graydon_Nicholas	46.5	-66.7499999	New Brunswick
+Philip_S._Lee	55.0000001	-97.0	Manitoba
+Greg_Selinger	55.0000001	-97.0	Manitoba
+Judith_Guichon	55.0	-124.9999999	British Columbia
+Frank_Lewis	46.3202067	-63.4594099	Prince Edward Island
+Robert_Ghiz	46.3202067	-63.4594099	Prince Edward Island
+Vaughn_Solomon_Schofield	55.5321257	-106.1412242	Saskatchewan
+Donald_Ethell	55.0	-114.9999998	Alberta
+Frank_Fagan	52.0000002	-56.0	Newfoundland and Labrador
+George_Tuccaro	65.0000004	-117.9999999	Northwest Territories
+Bob_McLeod	65.0000004	-117.9999999	Northwest Territories
+Doug_Phillips	63.0000001	-136.0	Yukon
+Darrell_Pasloski	63.0000001	-136.0	Yukon
+Edna_Elias	70.0000073	-89.9999999	Nunavut
+Eva_Aariak	70.0000073	-89.9999999	Nunavut
+Alison_Redford	55.0	-114.9999998	Alberta
+Danielle_Smith	55.0	-114.9999998	Alberta
+Raj_Sherman	55.0	-114.9999998	Alberta
+Brian_Mason	55.0	-114.9999998	Alberta
+Christy_Clark	55.0	-124.9999999	British Columbia
+Adrian_Dix	55.0	-124.9999999	British Columbia
+Adam_Olsen	55.0	-124.9999999	British Columbia
+Gregory_Selinger	55.0000001	-97.0	Manitoba
+Brian_William_Pallister	55.0000001	-97.0	Manitoba
+David_Alward	46.5	-66.7499999	New Brunswick
+Brian_Gallant	46.5	-66.7499999	New Brunswick
+Kathy_Dunderdale	52.0000002	-56.0	Newfoundland and Labrador
+Dwight_Ball	52.0000002	-56.0	Newfoundland and Labrador
+Lorraine_Michael	52.0000002	-56.0	Newfoundland and Labrador
+Darrel_Dexter	45.0000002	-62.9999998	Nova Scotia
+Stephen_McNeil	45.0000002	-62.9999998	Nova Scotia
+Jamie_Baillie	45.0000002	-62.9999998	Nova Scotia
+Kathleen_Wynne	50.0000002	-86.0	Ontario
+Tim_Hudak	50.0000002	-86.0	Ontario
+Andrea_Horwath	50.0000002	-86.0	Ontario
+Robert_W.J._Ghiz	46.3202067	-63.4594099	Prince Edward Island
+Steven_Myers	46.3202067	-63.4594099	Prince Edward Island
+Philippe_Couillard	54.0	-71.9999999	Quebec
+Francois_Legault	54.0	-71.9999999	Quebec
+Regent_Seguin	54.0	-71.9999999	Quebec
+Brad_Wall	55.5321257	-106.1412242	Saskatchewan
+Cam_Broten	55.5321257	-106.1412242	Saskatchewan
+Elizabeth_Hanson	63.0000001	-136.0	Yukon
+Sandy_Silver	63.0000001	-136.0	Yukon
+Susan_Fennell	43.714575	-79.7523866	Brampton
+Naheed_Nenshi	51.02532675	-114.049868389	Calgary
+Stephen_Mandel	53.5343609	-113.5065084	Edmonton
+Marc_Bureau	45.4563052	-75.7228827	Gatineau
+Mike_Savage	53.7209169	-1.8674503	Halifax
+Bob_Bratina	43.255205	-79.8682019	Hamilton
+Carl_Zehr	43.4516552	-80.4924614	Kitchener
+Martine_Beaugrand	48.0710377	-0.7723498	Laval
+Joe_Fontana	51.5073219	-0.1276473	London
+Caroline_St-Hilaire	45.545793	-73.4257509	Longueuil
+Hazel_McCallion	43.5892854	-79.6441645	Mississauga
+Laurent_Blanchard	45.4972159	-73.6103641	Montreal
+Jim_Watson	45.4210328	-75.6900218	Ottawa
+Regis_Labeaume	46.8257374	-71.2349113	Quebec City
+Michael_Fougere	50.4480951	-104.615818	Regina
+Don_Atchison	52.1303794	-106.6605123	Saskatoon
+Dennis_O'Keefe	47.5614849	-52.7125838	St. John's
+Dianne_Watts	51.2715316	-0.341452301129	Surrey
+Rob_Ford	43.6529206	-79.3849007	Toronto
+Gregor_Robertson	49.2608944	-123.1139382	Vancouver
+Eddie_Francis	42.30423	-83.0298609	Windsor
+Sam_Katz	49.8833343	-97.166674	Winnipeg
+Linda_Sloan	53.5343609	-113.5065084	Edmonton
+Kim_Krushell	53.5343609	-113.5065084	Edmonton
+Dave_Loken	53.5343609	-113.5065084	Edmonton
+Ed_Gibbons	53.5343609	-113.5065084	Edmonton
+Karen_Leibovici	53.5343609	-113.5065084	Edmonton
+Jane_Batty	53.5343609	-113.5065084	Edmonton
+Tony_Caterina	53.5343609	-113.5065084	Edmonton
+Ben_Henderson	53.5343609	-113.5065084	Edmonton
+Bryan_Anderson	53.5343609	-113.5065084	Edmonton
+Don_Iveson	53.5343609	-113.5065084	Edmonton
+Kerry_Diotte	53.5343609	-113.5065084	Edmonton
+Amarjeet_Sohi	53.5343609	-113.5065084	Edmonton
+Xi Jinping	35.000074	104.999927	China
+Li Keqiang	35.000074	104.999927	China
+Pranab Mukherjee	22.3511148	78.6677428	India
+Manmohan Singh	22.3511148	78.6677428	India
+Barack Obama	39.7837304	-100.4458824	United States
+Susilo Bambang Yudhoyono	-4.7993355	114.5632032	Indonesia
+Dilma Rousseff	-10.3333332	-53.1999999	Brazil
+Nawaz Sharif	30.3308401	71.247499	Pakistan
+Mamnoon Hussain	30.3308401	71.247499	Pakistan
+Goodluck Jonathan	9.6000359	7.9999721	Nigeria
+Sheikh Hasina	24.4768783	90.2932426	Bangladesh
+Abdul Hamid	24.4768783	90.2932426	Bangladesh
+Vladimir Putin	64.6863136	97.7453061	Russia
+Dmitry Medvedev	64.6863136	97.7453061	Russia
+Akihito	36.5748441	139.2394179	Japan
+Benigno Aquino III	12.7503486	122.7312101	Philippines
+Mulatu Teshome	10.2116702	38.6521203	Ethiopia
+Hailemariam Desalegn	10.2116702	38.6521203	Ethiopia
+Ibrahim Mahlab	26.2540493	29.2675469	Egypt
+Adly Mansour	26.2540493	29.2675469	Egypt
+Joachim Gauck	51.0834196	10.4234469	Germany
+Angela Merkel	51.0834196	10.4234469	Germany
+Hassan Rouhani	32.9407496	52.9471344	Iran
+Ayatollah Ali Khamenei	32.9407496	52.9471344	Iran
+Yingluck Shinawatra	14.8971921	100.83273	Thailand
+Bhumibol Adulyadej	14.8971921	100.83273	Thailand
+Matteo Renzi	42.6384261	12.674297	Italy
+Giorgio Napolitano	42.6384261	12.674297	Italy
+Thein Sein	17.1750495	95.9999652	Myanmar
+Jacob Zuma	-28.8166235	24.991639	South Africa
+Park Geun-hye	35.3985008	127.937111	South Korea
+Jung Hong-won	35.3985008	127.937111	South Korea
+Atlanta Braves	33.7490987	-84.3901848	Atlanta
+Miami Marlins	25.7742658	-80.1936588	Miami
+New York Mets	40.7305991	-73.9865811	New York City
+Philadelphia Phillies	39.9523993	-75.1635898	Philadelphia
+Washington Nationals	38.8949549	-77.0366455	Washington, D.C.
+Chicago Cubs	41.8755546	-87.6244211	Chicago
+Cincinnati Reds	39.1014537	-84.5124601	Cincinnati
+Milwaukee Brewers	43.0349931	-87.9224969	Milwaukee
+Pittsburgh Pirates	40.4416941	-79.990086	Pittsburgh
+St. Louis Cardinals	38.6272733	-90.1978888	St Louis
+Arizona Diamondbacks	33.4485866	-112.0773455	Phoenix
+Colorado Rockies	39.7391536	-104.9847033	Denver
+Los Angeles Dodgers	34.054935	-118.2444759	Los Angeles
+San Diego Padres	32.7174209	-117.1627713	San Diego
+San Francisco Giants	37.7792808	-122.4192362	San Francisco
+Baltimore Orioles	39.2908816	-76.6107589	Baltimore
+Boston Red Sox	42.3604823	-71.0595677	Boston
+New York Yankees	40.7305991	-73.9865811	New York City
+Tampa Bay Rays	27.9477595	-82.4584439	Tampa
+Toronto Blue Jays	43.6529206	-79.3849007	Toronto
+Chicago White Sox	41.8755546	-87.6244211	Chicago
+Cleveland Indians	41.5051613	-81.6934445	Cleveland
+Detroit Tigers	42.3486635	-83.0567374	Detroit
+Kansas City Royals	39.0844687	-94.5630297	Kansas City
+Minnesota Twins	44.9772995	-93.2654691	Minneapolis
+Houston Astros	29.7589382	-95.3676973	Houston
+Los Angeles Angels of Anaheim	33.8347516	-117.9117319	Anaheim
+Oakland Athletics	37.8044557	-122.2713562	Oakland
+Seattle Mariners	47.6038321	-122.3300623	Seattle
+Texas Rangers	32.701939	-97.1400558642	Arlington
+Boston Celtics	42.3604823	-71.0595677	Boston
+Brooklyn Nets	40.7305991	-73.9865811	New York City
+New York Knicks	40.7305991	-73.9865811	New York City
+Philadelphia 76ers	39.9523993	-75.1635898	Philadelphia
+Toronto Raptors	43.6529206	-79.3849007	Toronto
+Chicago Bulls	41.8755546	-87.6244211	Chicago
+Cleveland Cavaliers	41.5051613	-81.6934445	Cleveland
+Detroit Pistons	42.3486635	-83.0567374	Detroit
+Indiana Pacers	39.7683331	-86.1583501	Indianapolis
+Milwaukee Bucks	43.0349931	-87.9224969	Milwaukee
+Atlanta Hawks	33.7490987	-84.3901848	Atlanta
+Charlotte Bobcats	35.2270869	-80.8431267	Charlotte
+Miami Heat	25.7742658	-80.1936588	Miami
+Orlando Magic	28.5421175	-81.3790461	Orlando
+Washington Wizards	38.8949549	-77.0366455	Washington, D.C.
+Denver Nuggets	39.7391536	-104.9847033	Denver
+Minnesota Timberwolves	44.9772995	-93.2654691	Minneapolis
+Oklahoma City Thunder	35.4729886	-97.5170535	Oklahoma City
+Portland Trail Blazers	45.5202471	-122.6741948	Portland
+Utah Jazz	40.7670126	-111.8904307	Salt Lake City
+Golden State Warriors	37.8044557	-122.2713562	Oakland
+Los Angeles Clippers	34.054935	-118.2444759	Los Angeles
+Los Angeles Lakers	34.054935	-118.2444759	Los Angeles
+Phoenix Suns	33.4485866	-112.0773455	Phoenix
+Sacramento Kings	38.5815719	-121.4943995	Sacramento
+Dallas Mavericks	32.7762719	-96.7968558	Dallas
+Houston Rockets	29.7589382	-95.3676973	Houston
+Memphis Grizzlies	35.1490215	-90.0516284	Memphis
+New Orleans Pelicans	29.9499323	-90.0701155	New Orleans
+San Antonio Spurs	29.4246002	-98.4951404	San Antonio
+Buffalo Bills	42.7670376	-78.7435516	Orchard Park
+Miami Dolphins	25.7742658	-80.1936588	Miami
+New England Patriots	42.0653768	-71.2478307	Foxborough
+New York Jets	40.787878	-74.3882069	Florham Park
+Baltimore Ravens	39.2908816	-76.6107589	Baltimore
+Cincinnati Bengals	39.1014537	-84.5124601	Cincinnati
+Cleveland Browns	41.5051613	-81.6934445	Cleveland
+Pittsburgh Steelers	40.4416941	-79.990086	Pittsburgh
+Houston Texans	29.7589382	-95.3676973	Houston
+Indianapolis Colts	39.7683331	-86.1583501	Indianapolis
+Jacksonville Jaguars	30.3321838	-81.6556509	Jacksonville
+Tennessee Titans	36.1622296	-86.774353	Nashville
+Denver Broncos	39.7391536	-104.9847033	Denver
+Kansas City Chiefs	39.0844687	-94.5630297	Kansas City
+Oakland Raiders	37.8044557	-122.2713562	Oakland
+San Diego Chargers	32.7174209	-117.1627713	San Diego
+Dallas Cowboys	32.701939	-97.1400558642	Arlington
+New York Giants	40.833989	-74.0970864	East Rutherford
+Philadelphia Eagles	39.9523993	-75.1635898	Philadelphia
+Washington Redskins	38.8949549	-77.0366455	Washington, D.C.
+Chicago Bears	41.8755546	-87.6244211	Chicago
+Detroit Lions	42.3486635	-83.0567374	Detroit
+Green Bay Packers	44.5299412	-88.0248316	Green Bay
+Minnesota Vikings	44.9772995	-93.2654691	Minneapolis
+Atlanta Falcons	33.7490987	-84.3901848	Atlanta
+Carolina Panthers	35.2270869	-80.8431267	Charlotte
+New Orleans Saints	29.9499323	-90.0701155	New Orleans
+Tampa Bay Buccaneers	27.9477595	-82.4584439	Tampa
+St. Louis Rams	38.6272733	-90.1978888	St Louis
+San Francisco 49ers	37.7792808	-122.4192362	San Francisco
+Seattle Seahawks	47.6038321	-122.3300623	Seattle
+Anaheim Ducks	33.8347516	-117.9117319	Anaheim
+Calgary Flames	51.02532675	-114.049868389	Calgary
+Edmonton Oilers	53.5343609	-113.5065084	Edmonton
+Los Angeles Kings	34.054935	-118.2444759	Los Angeles
+Phoenix Coyotes	34.142498	-118.2485959	Glendale
+San Jose Sharks	37.3361905	-121.8905832	San Jose
+Vancouver Canucks	49.2608944	-123.1139382	Vancouver
+Chicago Blackhawks	41.8755546	-87.6244211	Chicago
+Colorado Avalanche	39.7391536	-104.9847033	Denver
+Dallas Stars	32.7762719	-96.7968558	Dallas
+Minnesota Wild	43.697972	7.1216304	Saint Paul
+Nashville Predators	36.1622296	-86.774353	Nashville
+St. Louis Blues	38.6272733	-90.1978888	St Louis
+Winnipeg Jets	49.8833343	-97.166674	Winnipeg
+Boston Bruins	42.3604823	-71.0595677	Boston
+Buffalo Sabres	42.8867166	-78.8783921	Buffalo
+Detroit Red Wings	42.3486635	-83.0567374	Detroit
+Florida Panthers	26.1482449	-80.328885841	Sunrise
+Montreal Canadiens	45.4972159	-73.6103641	Montreal
+Ottawa Senators	45.4210328	-75.6900218	Ottawa
+Tampa Bay Lightning	27.9477595	-82.4584439	Tampa
+Toronto Maple Leafs	43.6529206	-79.3849007	Toronto
+Carolina Hurricanes	35.7803977	-78.6390988	Raleigh
+Columbus Blue Jackets	39.9622601	-83.0007064	Columbus
+New Jersey Devils	40.735657	-74.1723666	Newark
+New York Islanders	40.7003793	-73.5929055	Uniondale
+New York Rangers	40.7305991	-73.9865811	New York City
+Philadelphia Flyers	39.9523993	-75.1635898	Philadelphia
+Pittsburgh Penguins	40.4416941	-79.990086	Pittsburgh
+Washington Capitals	38.8949549	-77.0366455	Washington, D.C.
+National Arts Centre	45.4210328	-75.6900218	Ottawa
+Rose Theatre	43.714575	-79.7523866	Brampton
+British Film Institute	51.5073219	-0.1276473	London
+National Theatre	51.5073219	-0.1276473	London
+Theatre Royal Drury Lane	51.5073219	-0.1276473	London
+Globe Theatre	51.5073219	-0.1276473	London
+Findhorn Foundation Universal Hall	57.6591141	-3.610704	Findhorn
+Apollo Victoria Theatre	51.5073219	-0.1276473	London
+London Palladium	51.5073219	-0.1276473	London
+Her Majesty's Theatre	51.5073219	-0.1276473	London
+Haymarket Theatre	51.5073219	-0.1276473	London
+Young Vic theatre	51.5073219	-0.1276473	London
+Ritzy	51.5073219	-0.1276473	London
+Old Vic Theatre	51.5073219	-0.1276473	London
+IMAX Cinema	51.5073219	-0.1276473	London
+Royal Albert Hall	51.5073219	-0.1276473	London
+Royal National Theatre	51.5073219	-0.1276473	London
+Commodore cinema	52.4143113	-4.0816845	Aberystwyth
+Aberystwyth bandstand	52.4143113	-4.0816845	Aberystwyth
+Aberystwyth Arts Centre	52.2945938	-3.95247240501	Ceredigion
+Victoria Palace Theatre	51.5073219	-0.1276473	London
+Theatre MK	52.0429797	-0.7589606	Milton Keynes
+Edinburgh Playhouse	55.9495628	-3.1914971	Edinburgh
+Belgrade Theatre	52.4081812	-1.5104769	Coventry
+Octagon Theatre, Bolton	53.577694	-2.4288873	Bolton
+Bournemouth International Centre	50.74467035	-1.85798080318	Bournemouth
+Grimsby Auditorium	53.5677371	-0.0736288	Grimsby
+Spotlites @ Kings Theatre	42.405207	-82.1914669	Chatham
+American Film Institute National Film Theater	38.8949549	-77.0366455	Washington
+Eisenhower Theatre	38.8949549	-77.0366455	Washington
+Samuel P Langley IMAX Theater	38.8949549	-77.0366455	Washington
+The Hobby Center for the Performing Arts	29.7589382	-95.3676973	Houston
+Verne Drive-in Theatre	43.654148	-96.2126969	Luverne
+Cabaret Theater	41.1670412	-73.2048347	Bridgeport
+Helen Hayes Theater	40.7305991	-73.9865811	New York
+Redlands Bowl	34.072662	-117.0934169	Redlands
+Radio City Music Hall	40.7305991	-73.9865811	New York
+Krikorian Redlands Cinema	34.072662	-117.0934169	Redlands
+Peppermill Concert Hall	40.7390971	-114.0733448	West Wendover
+Plaza Theater	32.3476438	-97.3866836	Cleburne
+Calumet Theatre	41.6155909	-87.529487	Calumet Township
+Ed Sullivan Theatre	40.7305991	-73.9865811	New York
+Lincoln Center	40.7305991	-73.9865811	New York
+Chinese Theater	34.054935	-118.2444759	Los Angeles
+Kodak Theater	34.054935	-118.2444759	Los Angeles
+State Theater	46.5	-66.7499999	New Brunswick
+American Conservatory Theater	37.7792808	-122.4192362	San Francisco
+Fillmore Auditorium	37.7792808	-122.4192362	San Francisco
+Gould Theater	37.7792808	-122.4192362	San Francisco
+Louise Davies Symphony Hall	37.7792808	-122.4192362	San Francisco
+Blue Man Group Sharp Aquos Theatre	28.5421175	-81.3790461	Orlando
+Bob Carr Performing Arts Centre	28.5421175	-81.3790461	Orlando
+Bread  and Puppet Theater	43.8888542	-72.4937238	Tunbridge
+Arena Theater	29.7589382	-95.3676973	Houston
+Iroquois Theater	41.8755546	-87.6244211	Chicago
+Hippodrome State Theatre	29.6519396	-82.324996	Gainesville
+Valentine Theatre	41.6786754	-83.5127282	Toledo
+Arabian Nights	28.2918995	-81.4075837	Kissimmee
+Sleuth's Mystery Dinner Show	28.5421175	-81.3790461	Orlando
+Al Hirschfeld Theatre	40.7305991	-73.9865811	New York
+Imperial Theatre	40.7305991	-73.9865811	New York
+Nederlander Theatre	40.7305991	-73.9865811	New York
+St. James Theatre	40.7305991	-73.9865811	New York
+Owen's Theater	36.6440399	-93.2171329	Branson
+Rosemont Theatre	41.9941334	-87.8756736	Rosemont
+The Little Shubert Broadway	40.7305991	-73.9865811	New York
+Eugene O'Neill Theatre	40.7305991	-73.9865811	New York
+The Palace Theatre	40.7305991	-73.9865811	New York
+Winter Garden Theatre	40.7305991	-73.9865811	New York
+Pirate's Dinner Adventure	28.5421175	-81.3790461	Orlando
+Bernard B Jacobs Theatre	40.7305991	-73.9865811	New York
+Gerald Schoenfeld Theatre	40.7305991	-73.9865811	New York
+Walter Kerr Theatre	40.7305991	-73.9865811	New York
+Shubert Theatre	40.7305991	-73.9865811	New York
+The Parlor	37.7792808	-122.4192362	San Francisco
+Neil Simon Theatre	40.7305991	-73.9865811	New York
+The Fillmore Miami Beach at The Jackie Gleason	25.7881436	-80.1272704	Miami Beach
+Koch Memorial Forest Theatre	35.9131996	-79.0558444	Chapel Hill
+Tony n Tina's Wedding San Francisco	37.7792808	-122.4192362	San Francisco
+Grauman's Chinese Theatre	34.054935	-118.2444759	Los Angeles
+Longacre Theatre	40.7305991	-73.9865811	New York
+Texas Amphitheatre	32.2345872	-97.755306	Glen Rose
+The Brazos Drive-In Theatre	32.4420826	-97.7941966	Granbury
+Glenwood at Red Bridge	39.0844687	-94.5630297	Kansas City
+Co-Ed Cinema	28.2446658	-80.7286239	Brevard
+Clemson Theater	28.2446658	-80.7286239	Brevard
+Paramount Theater	35.3848841	-77.992765	Goldsboro
+Coral Square Stadium 8 Movie Theater	26.2378597	-80.1247666	Pompano Beach
+Marquis Theatre	40.7305991	-73.9865811	New York
+BOK Event Center	36.1556805	-95.9929112	Tulsa
+Hyperion Theater	33.8347516	-117.9117319	Anaheim
+The Smoky Mountain Opry	35.7884241	-83.5543328	Pigeon Forge
+Nashville Municipal Auditorium	36.1622296	-86.774353	Nashville
+Fox Theater Tucson	32.2217422	-110.9264758	Tucson
+York Theater	41.8994745	-87.9403417	Elmhurst
+Graham Drive-In	39.34062	-99.8980623	Graham
+Graham Memorial Theater	39.34062	-99.8980623	Graham
+Music Box Theater	40.7305991	-73.9865811	New York
+Beach Blanket Babylon	37.7792808	-122.4192362	San Francisco
+Harkness Tower	41.3082138	-72.9250517	New Haven
+Hollister Tower	29.6487882	-81.637211	Palatka
+Luther Tower	37.9410341	-121.9357924	Clayton
+Condor Observation Tower	34.8115546	-118.957762769	Frazier Park
+Gopher Ridge Tower	50.8553888	0.5824703	Hastings
+Brattleboro Retreat Tower	42.8509152	-72.5578677	Brattleboro
+Goldhead American Tower	41.9005865	-87.8567276	Melrose Park
+Water Gap Observation Tower	40.398036	-76.8115167	Dauphin
+Bordeaux Tower	36.0625843	-94.1574327	Fayetteville
+Doctors Knob Tower	38.0864739	-83.1262838	Sandy Hook
+Deming Cooling Tower	32.2686981	-107.7586403	Deming
+Capitol Records Tower	34.054935	-118.2444759	Los Angeles
+Bowmens Tower	45.0380201	-93.3866184	New Hope
+Bok Tower	27.9014133	-81.5859098	Lake Wales
+Parnell Observation Tower	43.6191633	-87.9520363	Adell
+Cook Forest Tower	41.3703408	-79.3042098	Leeper
+Melrose Water Association Tower	41.9005865	-87.8567276	Melrose Park
+Little Bell Tower	38.1839705	-83.432684	Morehead
+Cogswell Tower	41.8906553	-71.3922784	Central Falls
+Penney Farms Tower	38.9690189	-77.7355055	Middleburg
+Weather Bureau Tower	46.187885	-123.8312559	Astoria
+University of Florida Lighted Data Tower	38.0772859	-89.3760498	Perry
+Memorial Clock Tower	41.2331116	-80.4934034	Sharon
+Myakka Tower	27.3364347	-82.5306526	Sarasota
+Merrill Tower	41.4444791	-87.6314311	Crete
+Lake County Tower	39.1154496	-77.5645445	Leesburg
+Carrie Tower	41.8239891	-71.4128342	Providence
+Beech Creek Tower	41.10729	-77.4844299	Mill Hall
+Old Highland Lakes Estate Observation Tower	45.027513	-84.6747519	Gaylord
+La Moure OMEGA Tower	46.4473745	-98.5345739	LaMoure
+Dateland Radar Tower	32.7964368	-113.5411488	Dateland
+Collier County Tower	40.8359336	14.2487826	Naples
+Arizona State Highway Patrol Tower	33.4485866	-112.0773455	Phoenix
+Coit Tower	37.7792808	-122.4192362	San Francisco
+George Washington Tower	42.3709299	-71.182832	Watertown
+Swampton Tower	37.7525922	-83.0687815	Salyersville
+Micanopy Tower	29.5045307	-82.2795899	Micanopy
+Ravine Omni Tower	53.7209169	-1.8674503	Halifax
+Aldrich Tower	32.26841905	-64.8029504391	Warwick
+Archer Forestry Site Tower	33.5816594	-98.7044868	Archer
+Sumter Electric Company Microwave Tower	29.1871986	-82.1400922	Ocala
+Singing Tower	38.6654653	-78.4600201	Luray
+Century Tel Microwave Tower	45.5027976	-91.7331645	Rice Lake
+Clark Memorial Tower	41.3308237	-94.0138392	Winterset
+Inspiration Tower	36.6440399	-93.2171329	Branson
+Welaka Tower	41.8528065	-124.149861883	Crescent City
+Epes Tower	40.8682487	-88.5631124	Livingston
+Jackson Still Tower	30.7210227	-86.1152183	DeFuniak Springs
+Rake Tower	32.9786566	-115.5302669	Brawley
+Hannah Robinson Obeservation Tower	41.5514283	-71.4693874	North Kingstown
+Inverness Tower	57.4790124	-4.2257389	Inverness
+Groveland Tower	42.7603688	-71.031445	Groveland
+Landmark Star Tower	50.6737348	-1.508305	Afton
+Belk Tower	35.2270869	-80.8431267	Charlotte
+Lebanon Forestry Site Tower	46.1264997	-123.1651186	Inglis
+Mueller Tower	40.8	-96.6678209	Lincoln
+Draper Tower	45.8196835	-91.0118302	Winter
+KGK Tower	42.0161612	-93.4891939	Story
+Scott Tower	42.22415795	-72.6402183064	Holyoke
+Division of Forestry Santa Fe Tower	41.2753164	-86.6457564	Starke
+Old Stone Church Tower	35.0456297	-85.30968	Chattanooga
+Kahle Tower	41.1806616	-79.709614	Emlenton
+Mauch Chunk Tower	40.8759235	-75.7324126	Jim Thorpe
+Immokalee Tower	26.4186898	-81.4172992	Immokalee
+Greenwood Tower	52.3314292	-0.1847722	Huntingdon
+Sleeping Giant Tower	41.3959287	-72.8968715	Hamden
+Airport Beacon Tower	29.0491426	-82.460933	Dunnellon
+Newspaper Rock Tower	38.01032755	-78.4523438045	Monticello
+Stewart Bell Tower	41.2230048	-111.9738428	Ogden
+Benton Tower	39.0082423	-88.155237	Jasper
+Trail Glade Tower	25.7742658	-80.1936588	Miami
+Bushnell Tower	40.5528183	-90.5062399	Bushnell
+Frizzell Tower	26.9761707	-82.0906447	Port Charlotte
+FLCR Translator Tower	37.0795539	-76.2835441	Long Creek
+Allen Bell Tower	36.1622296	-86.774353	Nashville
+Lake Amateur Radio Association Tower	39.1154496	-77.5645445	Leesburg
+Saint Leo Tower	29.4246002	-98.4951404	San Antonio
+Crystal River Tower	44.3225415	-89.0948901	Crystal River
+Broad Mountain Tower	40.9417535	-75.8296399	Weatherly
+Scargo Hill Observation Tower	51.51980715	-0.137679855785	Dennis
+Jenny Lind Tower	50.2627515	-5.0520466	Truro
+King Island Eiffel Tower	40.2302271	-89.8660432	Mason
+Copeland Tower	40.8359336	14.2487826	Naples
+Adams Tower	27.4467056	-80.3256055	Ft. Pierce
+Hellspot Tower	40.2338438	-111.6585336	Provo
+Adriatica Bell Tower	33.1976496	-96.615447	McKinney
+Mount Davis Observation Tower	51.0736612	-1.7951175	Salisbury
+Princeton University	40.3492744	-74.6592957	Princeton
+Harvard University	52.2033051	0.124862	Cambridge
+Yale University	41.3082138	-72.9250517	New Haven
+Columbia University	40.7305991	-73.9865811	New York
+University of Chicago	41.8755546	-87.6244211	Chicago
+Duke University	54.7764152	-1.5758538	Durham
+Massachusetts Institute of Technology	52.2033051	0.124862	Cambridge
+University of Pennsylvania	39.9523993	-75.1635898	Philadelphia
+California Institute of Technology	34.1476452	-118.1444778	Pasadena
+Dartmouth College	52.3744779	9.7385532	Hanover
+Johns Hopkins University	39.2908816	-76.6107589	Baltimore
+Northwestern University	42.0447388	-87.6930458	Evanston
+Cornell University	42.4396039	-76.4968018	Ithaca
+University of Notre Dame	41.70456775	-86.2382201602	Notre Dame
+Emory University	33.7490987	-84.3901848	Atlanta
+Georgetown University	38.8949549	-77.0366455	Washington, D.C.
+University of California Berkeley	37.8708393	-122.2728638	Berkeley
+Carnegie Mellon University	40.4416941	-79.990086	Pittsburgh
+University of California Los Angeles	34.054935	-118.2444759	Los Angeles
+University of Southern California	34.054935	-118.2444759	Los Angeles
+University of Virginia	38.029306	-78.476678	Charlottesville
+Wake Forest University	36.0998131	-80.2440517	Winston-Salem
+Tufts University	42.3264181	-122.8718604	Medford
+University of Michigan Ann Arbor	42.2681569	-83.731229	Ann Arbor
+University of North Carolina Chapel Hill	35.9131996	-79.0558444	Chapel Hill
+Boston College	42.330653	-71.1622756	Chestnut Hill
+Brandeis University	42.3756401	-71.2358003	Waltham
+College of William and Mary	37.2707028	-76.7074501	Williamsburg
+New York University	40.7305991	-73.9865811	New York
+University of Rochester	43.157285	-77.6152139	Rochester
+Georgia Institute of Technology	33.7490987	-84.3901848	Atlanta
+Case Western Reserve University	41.5051613	-81.6934445	Cleveland
+Pennsylvania State University	40.8005307	-77.8624446	University Park
+University of California Davis	38.545379	-121.7445834	Davis
+University of California San Diego	32.8472711	-117.2742085	La Jolla
+Boston University	42.3604823	-71.0595677	Boston
+Lehigh University	40.6178915	-75.378652	Bethlehem
+Rensselaer Polytechnic Institute	42.6055893	-83.1499303	Troy
+University of California Santa Barbara	34.4221319	-119.7026672	Santa Barbara
+University of Illinois Urbana-Champaign	40.1164205	-88.2433828	Champaign
+University of Wisconsin Madison	43.074761	-89.3837612	Madison
+University of Miami	25.6905515	-80.2350088798	Coral Gables
+Yeshiva University	40.7305991	-73.9865811	New York
+Northeastern University	42.3604823	-71.0595677	Boston
+University of California Irvine	33.6856969	-117.8259818	Irvine
+University of Florida	29.6519396	-82.324996	Gainesville
+George Washington University	38.8949549	-77.0366455	Washington, D.C.
+Ohio State University Columbus	39.9622601	-83.0007064	Columbus
+Tulane University	29.9499323	-90.0701155	New Orleans
+University of Texas Austin	30.2711286	-97.7436994	Austin
+University of Washington	47.6038321	-122.3300623	Seattle
+Fordham University	40.7305991	-73.9865811	New York
+Pepperdine University	34.035591	-118.6894229	Malibu
+University of Connecticut	41.8084314	-72.249523	Storrs
+Southern Methodist University	32.7762719	-96.7968558	Dallas
+University of Georgia	39.3292396	-82.1012554	Athens
+Brigham Young University Provo	40.2338438	-111.6585336	Provo
+Clemson University	34.6850749	-82.836411	Clemson
+Syracuse University	43.0481221	-76.1474243	Syracuse
+University of Maryland College Park	38.980666	-76.9369188	College Park
+University of Pittsburgh	40.4416941	-79.990086	Pittsburgh
+Worcester Polytechnic Institute	52.1911849	-2.2206584	Worcester
+Purdue University West Lafayette	40.4258686	-86.9080654	West Lafayette
+Rutgers, the State University of New Jersey New Brunswick	40.5462553	-74.4660407	Piscataway
+Texas A&M University College Station	30.6253463	-96.3271537	College Station
+University of Minnesota Twin Cities	44.9772995	-93.2654691	Minneapolis
+Virginia Tech	37.2296566	-80.4136766	Blacksburg
+Michigan State University	42.7355416	-84.4852468	East Lansing
+University of Iowa	41.6612561	-91.5299105	Iowa City
+American University	38.8949549	-77.0366455	Washington, D.C.
+Baylor University	31.549333	-97.1466694	Waco
+Clark University	52.1911849	-2.2206584	Worcester
+Indiana University Bloomington	39.1670396	-86.534288	Bloomington
+Marquette University	43.0349931	-87.9224969	Milwaukee
+Miami University Oxford	51.7520131	-1.2578498	Oxford
+University of Delaware	40.735657	-74.1723666	Newark
+Stevens Institute of Technology	40.7433066	-74.0323751	Hoboken
+Stony Brook University SUNY	40.9256538	-73.1409429	Stony Brook
+Texas Christian University	32.753177	-97.3327458	Fort Worth
+University of Vermont	44.4723989	-73.211494	Burlington
+SUNY College of Environmental Science and Forestry	43.0481221	-76.1474243	Syracuse
+University of Alabama	33.2668398	-87.4862181	Tuscaloosa
+University of California Santa Cruz	36.9735903	-122.0260569	Santa Cruz
+University of Colorado Boulder	40.0149856	-105.2705455	Boulder
+University of Tulsa	36.1556805	-95.9929112	Tulsa
+Auburn University	32.6848205	-85.4882772112	Auburn
+Colorado School of Mines	39.755543	-105.2210996	Golden
+Florida State University	30.4380832	-84.2809331	Tallahassee
+University of Denver	39.7391536	-104.9847033	Denver
+University of Massachusetts Amherst	42.3803676	-72.5231429	Amherst
+University of San Diego	32.7174209	-117.1627713	San Diego
+Binghamton University SUNY	42.096968	-75.9143409	Binghamton
+Drexel University	39.9523993	-75.1635898	Philadelphia
+University of Missouri	2.8894434	-73.7838919	Columbia
+University of New Hampshire	54.7764152	-1.5758538	Durham
+Millcreek Tower	30.2643855	-83.2843076	Leesburg
+CCA Tower	31.9834162	-110.2014598	Benson
+Weekiwachee Tower	28.5333281	-82.5078751	Spring Hill
+Unitas Tower	38.2198348	-85.7575607839	Louisville
+Trubys Tower	36.7251518	-107.822534	Blanco
+Dry Land Hill Tower	41.1511952	-75.6546343	White Haven
+Buck Ridge Microwave Tower	36.7141667	-112.3091666	Fredonia
+Shady Tower	29.0955339	-82.1514805	Ocala
+Bell Tower	37.5385087	-77.4342799	Richmond
+Youngstown Tower	30.4351948	-85.4279802	Youngstown
+Gold Basin Tower	38.4585978	-109.2631697	Moab
+Redbay Tower	30.5818597	-85.9343799	Ponce de Leon
+Stanford University	37.4265649	-122.170187551	Stanford
+Brown University	41.8239891	-71.4128342	Providence
+Washington University in St. Louis	38.6272733	-90.1978888	St Louis
+Vanderbilt University	36.1622296	-86.774353	Nashville
+Rice University	29.7589382	-95.3676973	Houston
+Paris Las Vegas Eiffel Tower	48.8582602	2.29449905432	Las Vegas

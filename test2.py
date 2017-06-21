@@ -17,6 +17,7 @@ while i != 10 :
                     with open('newcountry.json','r') as ff:
                         data1=json.load(ff)
                     if city in data1:
+                        print (city)
                         continue
                     try :
                         citystring = city.encode()
@@ -29,15 +30,15 @@ while i != 10 :
                     if location == None:
                         continue
                     count += 1
-                    print city
+                    print (city)
                     if count %10 == 0:
-                        print count
+                        print (count)
                     readed = json.load(open('newcountry.json','r'))
                     readed[city] = ((location.latitude,location.longitude))
                     json.dump(readed,open('newcountry.json','w'))
                     if count%50 == 0 :
                         time.sleep(1)
-    except Exception,e:
-        print str(e)
+    except Exception:
+        print ('error')
         time.sleep(5)
         continue
